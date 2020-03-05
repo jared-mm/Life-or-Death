@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/06/49/9d/06499d44ccc9a6291ad3492968684da9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+button {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: 'Trade Winds';
+    font-size: 70px;
+}
+
+h2 {
+    color: red;
+    font-family: 'Trade Winds';
+    font-size: 50px;
+}
+
+.name {
+    text-align: center;
+}
+
+input {
+    background-color: red;
+}
